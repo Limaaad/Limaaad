@@ -4,7 +4,7 @@
 
 * 🌍 Moro em Santa Catarina - Brasil
 * ✉️ Contate-me no e-mail [fabielledelima@gmail.com]
-* 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Escrava Anastacia como Jovem Aprendiz
+* 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Escrava Anastacia como Jovem Aprendiz e participo de um Treinee na Involves
 * 💻 Possuo experiências em Python, Django, CSS, HTML e Javascript
 *  ❤️‍🔥 Eu amo praticar Muay Thai
 

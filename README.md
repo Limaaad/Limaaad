@@ -4,9 +4,9 @@
 
 * 🌍 Moro em Santa Catarina - Brasil
 * ✉️ Contate-me no e-mail [fabielledelima@gmail.com]
-* 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Escrava Anastacia como Jovem Aprendiz e participo de um Trainee na Involves (Atuando na área de Design ajudando o time no desenvolvimento do Design System da empresa, colaborando na ferramenta Figma e UI/UX.)
+* 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Escrava Anastacia como Jovem Aprendiz
 * 💻 Possuo experiências em Python, Django, CSS, HTML e Javascript
-*  ❤️‍🔥 Eu amo praticar Muay Thai
+* Participei de um Trainee na Involves (Atuando na área de Design ajudando o time no desenvolvimento do Design System da empresa, colaborando na ferramenta Figma e UI/UX.)
 
 <div align="center">
   <a href="https://github.com/limaaad">

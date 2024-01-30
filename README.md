@@ -2,8 +2,8 @@
 
 ## Desenvolvedora Jr
 
-* 🌍 Moro em Santa Catarina - Brasil
-* ✉️ Contate-me no e-mail [fabielledelima@gmail.com]
+* 🌍 Santa Catarina - Brasil
+* ✉️ [fabielledelima@gmail.com]
 * 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Anastacia como AUX. Administrativo - Financeiro
 * 💻 Possuo experiências em Python, Django, CSS, HTML e Javascript
 * Participei de um Trainee na Involves (Atuando na área de Design ajudando o time no desenvolvimento do Design System da empresa, colaborando na ferramenta Figma e UI/UX.)

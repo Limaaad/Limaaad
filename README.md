@@ -9,7 +9,7 @@
 * Participei de um Trainee na Involves (Atuando na área de Design ajudando o time no desenvolvimento do Design System da empresa, colaborando na ferramenta Figma e UI/UX.)
 
 <div align="center">
-  <a href="https://github.com/limaaad">
+  <a href="https://github.com/Limaaad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limaaad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>

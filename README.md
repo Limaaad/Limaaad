@@ -1,12 +1,13 @@
-## Olá ! Eu sou a Fabielle, 
+## Hi ! I am Fabielle, 
 
 ## Desenvolvedora Jr
 
-* 🌍 Santa Catarina - Brasil
-* ✉️ [fabielledelima@gmail.com]
-* 🚀 Atualmente trabalho em uma ONG chamada Centro Cultural Anastacia como AUX. Administrativo - Financeiro
-* 💻 Possuo experiências em Python, Django, CSS, HTML e Javascript
-* Participei de um Trainee na Involves (Atuando na área de Design ajudando o time no desenvolvimento do Design System da empresa, colaborando na ferramenta Figma e UI/UX.)
+* 🌍 Santa Catarina - Brasil.
+* ✉️ [fabielledelima@gmail.com].
+* 🚀 At the moment job: Administrative Finance.
+* 💻 Experience: Python, Django, CSS, HTML e Javascript.
+* Internship participation at Involves (Working in the Design field, assisting the team in developing the company's Design System, collaborating on the Figma tool and UI/UX.)
+* English intermedially, Espanish basic and Brazilian Portuguese fluent.
 
 <div align="center">
   <a href="https://github.com/Limaaad">

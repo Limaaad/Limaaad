@@ -1,6 +1,6 @@
 ## Hi ! I am Fabielle, 
 
-## Desenvolvedora Jr
+## Developer Jr
 
 * 🌍 Santa Catarina - Brasil.
 * ✉️ [fabielledelima@gmail.com].

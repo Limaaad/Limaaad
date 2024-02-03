@@ -2,7 +2,7 @@
 
 ## Developer Jr
 
-* 🌍 Santa Catarina - Brasil.
+* 🌍 Santa Catarina - Brazil.
 * ✉️ [fabielledelima@gmail.com].
 * 🚀 At the moment job: Administrative Finance.
 * 💻 Experience: Python, Django, CSS, HTML e Javascript.

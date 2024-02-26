@@ -1,6 +1,6 @@
 ## Hi ! 
 
-<img align="center" alt="coraline" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Flaika-coraline-laikastudios-laikastudio-stop-motion-gif-19531644&psig=AOvVaw377VJFHuUOi6hoCxBzCjG2&ust=1709044195846000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCApvWbyYQDFQAAAAAdAAAAABAI)">
+<img align="center" alt="coraline" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
 
 ## I am Fabielle, 
 ## Developer Jr

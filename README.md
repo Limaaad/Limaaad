@@ -3,7 +3,6 @@
 <img align="center" alt="coraline" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
 
 ## I am Fabielle, 
-## Developer Jr
 
 * 🌍 Santa Catarina - Brazil.
 * ✉️ [fabielledelima@gmail.com].

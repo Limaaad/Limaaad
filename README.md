@@ -1,6 +1,6 @@
 ## Hi ! 
 
-<img align="center" alt="coraline" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
+<img align="center" alt="coraline" height="180em" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
 
 ## I am Fabielle, 
 

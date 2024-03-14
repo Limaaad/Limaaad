@@ -1,16 +1,16 @@
 ## Hi ! 
 
-<img align="center" alt="coraline" height="180em" width="100%" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
+<img align="center" alt="coraline" height="180em" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
 
 ## I am Fabielle, 
 
-* 🌍 Santa Catarina - Brazil.
+* 🌍 Brazil - SC.
 * ✉️ [fabielledelima@gmail.com].
 * 🚀 At the moment job: Administrative Finance.
-* 💻 Experience: Python, Django, CSS, HTML e Javascript.
+* 💻 Experience: Python, Django, CSS3, HTML5 e Javascript.
 * 👩🏽 Internship participation at Involves (Working in the Design field, assisting the team in developing the company's Design System, collaborating on the Figma tool and UI/UX.).
 * 🗣 English intermedially, Espanish basic and Brazilian Portuguese fluent.
-* 👍🏽 I like to program and play games. 
+* 👍🏽 I like to program and play games.
 
 <div align="center">
   <a href="https://github.com/Limaaad" />

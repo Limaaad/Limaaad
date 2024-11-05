@@ -6,7 +6,7 @@
 
 * 🌍 Brazil - SC.
 * ✉️ [fabielledelima@gmail.com].
-* 🚀 At the moment job: Administrative Finance.
+* 🚀 At the moment job: Teacher of tecnologies and inovation.
 * 💻 Experience: Python, Django, CSS3, HTML5 e Javascript.
 * 👩🏽 Internship participation at Involves (Working in the Design field, assisting the team in developing the company's Design System, collaborating on the Figma tool and UI/UX.).
 * 🗣 English intermedially, Espanish basic and Brazilian Portuguese fluent.

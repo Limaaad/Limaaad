@@ -1,17 +1,13 @@
-## Hi ! 
+## Oi ! 
 
 <img align="center" alt="coraline" height="180em" src="https://c.tenor.com/uVLd3xFewB8AAAAC/tenor.gif">
 
-## I am Fabielle, 
+## Eu sou a Fabielle, 
 
-* 🌍 Brazil - SC.
+* 🌍 Brasil - SC.
 * ✉️ [fabielledelima@gmail.com].
-* 🚀 At the moment job: Teacher of tecnologies and inovation.
-* 💻 Experience: Python, Django, CSS3, HTML5 e Javascript.
-* 👩🏽 Internship participation at Involves (Working in the Design field, assisting the team in developing the company's Design System, collaborating on the Figma tool and UI/UX.).
-* 🗣 English intermedially, Espanish basic and Brazilian Portuguese fluent.
-* 👍🏽 I like to program and play games.
-* In adjust https://portfolio-chi-eight-38.vercel.app/
+* 🚀 No momento estou trabalhando como: Suporte Técnico.
+* 👍🏽 Eu gosto de jogar qualquer jogo ai.
 
 <div align="center">
   <a href="https://github.com/Limaaad" />
